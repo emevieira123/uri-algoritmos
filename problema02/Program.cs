@@ -28,6 +28,8 @@ namespace problema02
             double raio = Double.Parse(Console.ReadLine());
             double area = r * (raio * raio);
             System.Console.WriteLine("A={0:f4}", area);
+
         }
+
     }
 }
